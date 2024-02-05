@@ -1,6 +1,0 @@
-1,java,easy,class,interface,extends
-2,java,easy,4,5,6
-3,java,easy,true,false,0
-4,java,easy,try,throw,catch
-5,java,easy,it indicates that a variable is constant.,it indicates that a method can be accessed without creating an instance of the class,it indicates that a class
-6,java,easy,constant int x = 5;,final int x =5;,static int x=5
